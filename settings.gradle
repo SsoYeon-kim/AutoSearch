@@ -1,0 +1,2 @@
+rootProject.name='GoogleMapPlace_Prac'
+include ':app'

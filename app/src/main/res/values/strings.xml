@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleMapPlace_Prac</string>
+    <string name="map_key" translatable="false">AIzaSyCndiGd7QCa_WkovcTVs48NoRGGGZSdNOk</string>
+</resources>
